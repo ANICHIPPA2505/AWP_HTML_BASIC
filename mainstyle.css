@@ -1,0 +1,20 @@
+body {
+    font-family: sans-serif;
+    background-color: #f0f0f0;
+    margin: 50px;
+}
+
+p {
+    font-family: sans-serif;
+    color: darkblue;
+}
+
+h1 {
+    color: darkblue;
+}
+
+ol {
+    background-color: white;
+    padding: 20spx;
+    line-height: 2;
+}
